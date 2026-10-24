@@ -1,4 +1,4 @@
-[script2roblox.txt](https://github.com/user-attachments/files/33901351/script2roblox.txt)
+
 
 -- ============================================
 -- КОНФИГУРАЦИЯ
